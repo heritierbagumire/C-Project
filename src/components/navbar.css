@@ -5,6 +5,10 @@
   display: flex;
   justify-content: flex-end;
   align-items: center;
+  position: static;
+  top: 0px;
+  left: 0%;
+
 }
 
 .links {
